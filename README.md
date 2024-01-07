@@ -1,1 +1,1 @@
-[My own classical watch](https://raw.githack.com/jslfree080/jslfree080/main/index.html)
+[My own classical watch](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jslfree080/jslfree080/main/index.html)
