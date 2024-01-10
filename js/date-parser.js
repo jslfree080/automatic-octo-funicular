@@ -14,6 +14,8 @@ class DateParser {
     }
 
     refresh() {
+        this.currentDate = new Date();
+        this.tick();
         setInterval(() => {
             this.currentDate = new Date();
             this.tick();
